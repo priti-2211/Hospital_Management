@@ -14,7 +14,7 @@ function Adminlog() {
                         <button className="btn btn-outline-success"><a href="">Login</a></button>
                         <hr />
                         <div className="end">
-                            <p>New admin?</p>
+                            <p>New Admin?</p>
                             <span><a href="">Register Here</a></span>
                         </div>
                     </form>
